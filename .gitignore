@@ -1,0 +1,4 @@
+bin
+*.sock
+.DS_Store
+*.swp
